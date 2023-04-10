@@ -18,6 +18,12 @@ brew install homebrew/science/clinfo
 * AMD OpenCL course
 * Introduction to OpenCL, Manchester
 
+## Official docs
+
+* <https://ulhpc-tutorials.readthedocs.io/en/latest/gpu/opencl/>
+* <https://developer.apple.com/opencl/>
+* <https://registry.khronos.org/OpenCL/>
+
 ## Nice docs
 
 * <https://hackernoon.com/a-gentle-introduction-to-hardware-accelerated-data-processing-81ac79c2105>
