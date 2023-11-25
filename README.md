@@ -18,6 +18,10 @@ brew install homebrew/science/clinfo
 * AMD OpenCL course
 * Introduction to OpenCL, Manchester
 
+## Rust lib
+
+* <https://github.com/cogciprocate/ocl>
+
 ## Official docs
 
 * <https://ulhpc-tutorials.readthedocs.io/en/latest/gpu/opencl/>
